@@ -1,0 +1,3 @@
+############################cell quality control ###########################################
+For quality control, we filtered out cells with detection of less than 500 transcripts. Cells with high proportion
+(>20%) of transcript counts derived from mitochondria-encoded genes were also excluded
