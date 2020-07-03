@@ -110,3 +110,8 @@ comprehensive
 repertoire
 we applied scRNA-seq to generate a comprehensive transcriptomic profile of the diverse cell populations present in embryonic,
 fetal, pediatric, and adult stages of the human thymus, and we combined this with detailed TCR repertoire analysis to reconstruct the T cell differentiation process.
+linear regression
+We performed batch correction using the BBKNN algorithm combined with linear regression
+Our dataset also featured the diverse nonimmune cell types that constitute the thymic microenvironment
+classified them into subtypes including TECs, fibroblasts
+lymphatic enthelial cells
