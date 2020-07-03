@@ -61,6 +61,7 @@ disorder
 inbred
 epigenetic inheritance
 acoordingly
+
 kidney
 peritoneal
 mechanism
@@ -104,3 +105,8 @@ This was further supported by hierarchical clustering, which confirmed that simi
 putative
 hematopoietic
 Expression of these genes gradually decreased as T cell lineage specification and commitment progressed
+pediatric
+comprehensive
+repertoire
+we applied scRNA-seq to generate a comprehensive transcriptomic profile of the diverse cell populations present in embryonic,
+fetal, pediatric, and adult stages of the human thymus, and we combined this with detailed TCR repertoire analysis to reconstruct the T cell differentiation process.
